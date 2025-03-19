@@ -1,7 +1,7 @@
 # 📚 Notion DB 업로드
 
-이 프로젝트는 AI 모델의 실험 결과를 쉽게 **Notion 데이터베이스**에 저장하고 관리하기 위한 파이썬 스크립트입니다.  
-자신의 Notion DB column에 맞게 "upload_to_notion" 함수에 properties를 변경해서 활용하시기 바랍니다. 
+- 이 프로젝트는 AI 모델의 실험 결과를 쉽게 **Notion 데이터베이스**에 저장하고 관리하기 위한 파이썬 스크립트입니다.  
+- 자신의 Notion DB column에 맞게 "upload_to_notion" 함수에 properties를 변경해서 활용하시기 바랍니다. 
 ---
 
 ## 🎯 핵심 기능
