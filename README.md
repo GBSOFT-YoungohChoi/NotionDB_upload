@@ -26,7 +26,7 @@ pip install notion-client python-dotenv
 ```
 ---
 
-## 🛠️ 사전 설정하기 (환경변수)
+## 🛠️ 사전 설정하기 (환경변수) - Notion 서버 마스터만 진행
 
 1. **Notion Integration 생성하기**
    - [Notion Integration 페이지](https://www.notion.so/my-integrations)에서 Integration을 만들고 API 키를 발급받습니다.
